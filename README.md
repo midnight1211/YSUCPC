@@ -1,1 +1,1 @@
-# YSUCPC
+# Made for all Youngstown State University Competitive Programming Club members. This repository contains sorting, searching, and data structure algorithms along with other fun and exciting algorithms.
