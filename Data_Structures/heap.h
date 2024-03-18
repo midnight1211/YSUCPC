@@ -47,7 +47,7 @@ public:
 
 		// First insert the new key at the end
 		heap_size++;
-		int i = keap_size - 1;
+		int i = heap_size - 1;
 		harr[i] = k;
 
 		// Fix the min heap property if it is violated
